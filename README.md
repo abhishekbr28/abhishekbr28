@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbr28&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbr28" /> </p>
 
-- 🔭 I’m currently working on **Todo list app**
+- 🔭 I’m currently working on **StudyNotion**
 
 - 🌱 I’m currently learning **React Js, Javascript,Java**
 
